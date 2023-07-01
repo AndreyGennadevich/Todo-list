@@ -21,7 +21,7 @@ export default {
   width: 100%;
   height: 100%;
   padding: 60px 40px;
-  background-color: #677DB7;
+  background-color: #212832;
   &__container {
     max-width: 900px;
     height: 100%;
@@ -41,8 +41,8 @@ export default {
     color: #FFFFFF;
   }
   &__link {
-    color: #DE3C4B;
-    margin: 0 5px;
+    color: #FED36A;
+    margin: 0 10px;
     text-decoration: underline solid;
   }
 }
